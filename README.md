@@ -8,7 +8,6 @@
 
 ## 📦 Instalação
 
-
 Clone o projeto através do comando: 
 ```bash
 $ git clone https://github.com/rcvilela/desafio-intergado.git
@@ -19,7 +18,9 @@ $ npm install
 ```
 Use o comando para executar o projeto: 
 ```bash
-$ ng serve ou npm run start 
+$ ng serve 
+ou 
+$ npm run start 
 ```
 Use o comando para executar a API: 
 ```bash
@@ -28,4 +29,4 @@ $ java -jar crud-back.jar
 
 ## ⌨️ Desenvolvimento
 
-Abra seu navegador e visite "http://localhost:4200/" para acessar o front-end e "http:localhost:5050/" para acessar o back-end.
+Abra seu navegador e visite "http://localhost:4200/" para acessar o front-end e "http://localhost:5050/" para acessar o back-end.
