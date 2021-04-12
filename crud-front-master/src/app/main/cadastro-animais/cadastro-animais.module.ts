@@ -8,9 +8,7 @@ import { MatIconModule } from '@angular/material';
 @NgModule({
   declarations: [CadastroAnimaisComponent],
   imports: [
-    AppModule,
-    MatTableModule,
-    MatIconModule
+    AppModule
   ],
   exports: [CadastroAnimaisComponent]
 })
