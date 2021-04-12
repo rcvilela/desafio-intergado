@@ -26,6 +26,9 @@ Use o comando para executar a API:
 ```bash
 $ java -jar crud-back.jar
 ```
+## ⚙️ Dependências
+
+- É necessário ter o NodeJS instalado. 
 
 ## ⌨️ Desenvolvimento
 
