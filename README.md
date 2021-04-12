@@ -9,7 +9,7 @@
 ## 📦 Instalação
 
 
-Clone o projeto através do link: 
+Clone o projeto através do comando: 
 ```bash
 $ git clone https://github.com/rcvilela/desafio-intergado.git
 ```
